@@ -1,4 +1,5 @@
-Scripts generated using Google Gemini
+Scripts generated using Google's AI mode
+
 
 Testing for CTC and CSC:
 
@@ -28,3 +29,4 @@ Sending:
 
 Receiving:
 <img width="888" height="384" alt="image" src="https://github.com/user-attachments/assets/f0ef4f93-bd65-45be-918c-c4dd0840cd05" />
+
