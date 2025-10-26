@@ -1,3 +1,5 @@
+Scripts generated using Google Gemini
+
 CTC
 
 Sending:
@@ -6,6 +8,11 @@ Sending:
 
 
 Receiving:
+<img width="1105" height="635" alt="image" src="https://github.com/user-attachments/assets/faaf8365-c188-4d3c-8b69-643a42aadb73" />
+
+<img width="1075" height="227" alt="image" src="https://github.com/user-attachments/assets/710cc74c-030d-409a-9b4c-658d1d6f2074" />
+
+
 
 
 
@@ -18,3 +25,4 @@ Sending:
 
 
 Receiving:
+<img width="888" height="384" alt="image" src="https://github.com/user-attachments/assets/f0ef4f93-bd65-45be-918c-c4dd0840cd05" />
