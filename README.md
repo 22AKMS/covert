@@ -1,6 +1,8 @@
 Scripts generated using Google Gemini
 
-CTC
+Testing for CTC and CSC:
+
+CTC:
 
 Sending:
 <img width="960" height="291" alt="image" src="https://github.com/user-attachments/assets/1758bda3-f9c0-401f-bf45-21ee6e035bd7" />
